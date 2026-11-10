@@ -58,7 +58,7 @@ com.example.benderaku
 
 ## 📸 Tangkapan Layar (Screenshot)
 
-| Layar 1 (Login) | Layar 2 (Invalid Input) | Layar 3 (Pilih Benua) | Layar 4 (Daftar Negara) | Layar 1 (login) |
+| Layar 1 (Login) | Layar 2 (Invalid Input) | Layar 3 (Pilih Benua) | Layar 4 (Daftar Negara) | Layar 5 (detail & quis) |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="screen_1.jpeg" width="180"> | <img src="screen_2.jpeg" width="180"> | <img src="screen_3.jpeg" width="180"> | <img src="screen_4.jpeg" width="180"> | <img src="screen_5.jpeg" width="180"> |
 
