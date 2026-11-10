@@ -59,7 +59,7 @@ com.example.benderaku
 ## 📸 Tangkapan Layar (Screenshot)
 | Layar 1 (Login) | Layar 2 (Invalid Input) | Layar 3 (Pilih Benua) | Layar 4 (Daftar Negara) | Layar 5 (Detail Negara) | Layar 5 (Kuis) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="screen_4.jpeg" width="150"> | <img src="screen_invalid.jpeg" width="150"> | <img src="screen_5.jpeg" width="150"> | <img src="screen_2.jpeg" width="150"> | <img src="screen_3.jpeg" width="150"> | <img src="screen_1.jpeg" width="150"> |
+| <img src="screen_4.jpeg" width="150"> | <img src="screen_2.jpeg" width="150"> | <img src="screen_5.jpeg" width="150"> | <img src="screen_2.jpeg" width="150"> | <img src="screen_3.jpeg" width="150"> | <img src="screen_1.jpeg" width="150"> |
 
 ## 🎥 Demo Aplikasi
 
