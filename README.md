@@ -55,12 +55,11 @@ com.example.benderaku
 3. **Jalankan Aplikasi**:
    - Di bagian atas Android Studio, pastikan perangkat yang dipilih adalah nama HP fisikmu (bukan emulator).
    - Klik tombol **Run (ikon play hijau / Shift + F10)** untuk *build* dan *install* aplikasi secara otomatis langsung ke HP-mu.
-
+     
 ## 📸 Tangkapan Layar (Screenshot)
-
-| Layar 1 (Login) | Layar 2 (Invalid Input) | Layar 3 (Pilih Benua) | Layar 4 (Daftar Negara) | Layar 5 (detail & quis) |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="screen_1.jpeg" width="180"> | <img src="screen_2.jpeg" width="180"> | <img src="screen_3.jpeg" width="180"> | <img src="screen_4.jpeg" width="180"> | <img src="screen_5.jpeg" width="180"> |
+| Layar 1 (Login) | Layar 2 (Invalid Input) | Layar 3 (Pilih Benua) | Layar 4 (Daftar Negara) | Layar 5 (Detail Negara) | Layar 5 (Kuis) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="screen_4.jpeg" width="150"> | <img src="screen_invalid.jpeg" width="150"> | <img src="screen_5.jpeg" width="150"> | <img src="screen_2.jpeg" width="150"> | <img src="screen_3.jpeg" width="150"> | <img src="screen_1.jpeg" width="150"> |
 
 ## 🎥 Demo Aplikasi
 
